@@ -1,0 +1,14 @@
+module RevertTentKit
+{
+	imports
+	{
+		Base,camping
+	}
+
+	recipe Return Tarp and TentPeg from TentKit {
+		CampingTentKit=1,
+		Result: Tarp,
+		Time: 200.0,
+		OnCreate: giveTentPeg,
+	}
+}

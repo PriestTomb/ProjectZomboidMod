@@ -1,0 +1,3 @@
+Recipe_CN = {
+    Recipe_Return_Tarp_and_TentPeg_from_TentKit = "从帐篷套件中取回油布和帐篷桩",
+}

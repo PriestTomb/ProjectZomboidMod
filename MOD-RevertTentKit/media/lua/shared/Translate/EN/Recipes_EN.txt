@@ -1,0 +1,3 @@
+Recipe_CN = {
+    Recipe_Return_Tarp_and_TentPeg_from_TentKit = "return tarp and tent peg from tent kit",
+}
